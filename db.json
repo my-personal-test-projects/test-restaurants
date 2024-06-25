@@ -1,0 +1,15 @@
+{
+  "restaurants": [
+    {
+      "id": "af83",
+      "name": "New Restaurant",
+      "contact": "7894561230",
+      "email": "newTestRestaurant@gmail.com",
+      "opentime": "09:00",
+      "closetime": "18:00",
+      "website": "https://localhost:65800",
+      "address": "Pune",
+      "description": "Description "
+    }
+  ]
+}
